@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Multiverse Research Simulator",
+      "hasCanvas": false,
+      "bodyTextLen": 1639,
+      "bodyTextHash": "fea7ac284d755f4467832f5ac6117357d57efd95991573424d0dba3e7d5781dd",
+      "bodyTextPrefix": "ELY-SYS-PF-QGD-001 · ASGARD RESTORATION Multiverse Research Simu",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Multiverse Research Simulator",
+      "hasCanvas": false,
+      "bodyTextLen": 1639,
+      "bodyTextHash": "fea7ac284d755f4467832f5ac6117357d57efd95991573424d0dba3e7d5781dd",
+      "bodyTextPrefix": "ELY-SYS-PF-QGD-001 · ASGARD RESTORATION Multiverse Research Simu",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
